@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "f5f4008e-6bb4-4532-9e71-b4bdf89d762a",
+    "name": "HoKun29",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "4878ef5d-7466-3b9a-a584-9069597546fb",
+    "name": "HoKun",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "40b76cc9-de94-3b3e-ba34-6d8aba30375f",
+    "name": "HoKun29",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "00000000-0000-0000-0009-01fa331d7b54",
+    "name": ".HoKun29",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
